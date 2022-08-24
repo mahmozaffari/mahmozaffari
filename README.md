@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 3rd year PhD student at Rochester Institute of Technology.
+I am a 3rd year PhD student at Rochester Institute of Technology (RIT).
 
 I work at [Mining Lab](https://www.rit.edu/mining/), under the supervision of Dr. [Qi Yu](https://www.rit.edu/mining/qi-yu).
 
