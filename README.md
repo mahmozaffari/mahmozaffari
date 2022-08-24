@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Mahsa Mozaffari, third year PhD student at Rochester Institute of Technology.
+
 I work at [https://www.rit.edu/mining/](Mining Lab), under the supervision of Dr. Qi Yu.
 
 <!--
