@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Mahsa Mozaffari, third year PhD student at Rochester Institute of Technology.
+I am a 3rd year PhD student at Rochester Institute of Technology.
 
-I work at [https://www.rit.edu/mining/](Mining Lab), under the supervision of Dr. Qi Yu.
+I work at [https://www.rit.edu/mining/](Mining Lab), under the supervision of Dr. [https://www.rit.edu/mining/qi-yu](Qi Yu).
 
 <!--
 **mahmozaffari/mahmozaffari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
